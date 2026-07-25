@@ -1,0 +1,14 @@
+{
+  "name": "DoneToday — One Task Daily",
+  "short_name": "DoneToday",
+  "description": "Choose one important task, focus, and finish the day with a streak.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f1714",
+  "theme_color": "#0f1714",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
